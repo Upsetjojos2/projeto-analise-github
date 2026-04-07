@@ -1,0 +1,901 @@
+repo_name,language,description
+.github,,Default Community Health/Policy Files for the Microsoft organization on GitHub
+.Net-Interactive-Kernels-ADS,Jupyter Notebook,Install and Use .Net Interactive Kernels in ADS
+.NET-Modernization-In-a-Day,JavaScript,.NET Modernization In a Day workshop content
+0xDeCA10B,Python,Sharing Updatable Models (SUM) on Blockchain
+2019-ignite-circuit-playground,Python,Get started with Circuit Playground Express and the Device Simulator Express
+2023iotlevelup,Python,
+25-days-of-serverless,,Repository responsible for 25 days of Serverless challenges
+2LCS,C#,Lifecycle Services Companion App for administrators
+3-in-1-dock,,
+30daysof,JavaScript,"30 Day of Learning Resources, Samples and Curricula"
+3DTelecommunications,C++,3D Telecommunications project utilizing Holoportation technology to provide live volumetric capture.  Used in one case to increase the reach of specialized medicine.
+50BusinessAssignmentsLog,,Dataset containing an Event Log of 165 recordings of 50 business assignments.
+A-CLIP,Python,"Official Implementation of Attentive Mask CLIP (ICCV2023, https://arxiv.org/abs/2212.08653)"
+A-TALE-OF-THREE-CITIES,R,"Analyzing the safety (311) dataset published by Azure Open Datasets for Chicago, Boston and New York City using SparkR, SParkSQL, Azure Databricks, visualization using ggplot2 and leaflet. Focus is on descriptive analytics, visualization, clustering, time series forecasting and anomaly detection."
+a11y-llm-eval,Python,An eval tool to benchmark how well LLMs generate accessible HTML
+a11y-llm-eval-report,,
+aaai21-copy-that,Python,"Source code for the ""Copy that! Editing Sequences by Copying Spans"" AAAI'21 paper"
+aad-app-credential-tools,PowerShell,Tooling for application credentials
+aad-hybrid-lab,PowerShell,"Create a new VM with AD installed, test users created, PowerShell Azure AD modules, and Azure AD Connect installer ready to go."
+AADB2C-migration,,
+aadb2c-starter-kit,JavaScript,
+AADConnectConfigDocumenter,C#,AAD Connect configuration documenter is a tool to generate documentation of an AAD Connect installation.
+aad_b2c_webview,Dart,Azure AD B2C Embedded Webview is a very simple Flutter package that demonstrates how to use the embedded web view to sign in users with Azure AD B2C.
+aaq,,Code and Data artifact for Affective Air Quality: A Dataset of Gas Sensor Data during Emotional Experiences
+AaronLocker,PowerShell,Robust and practical application control for Windows
+ABAP-SDK-for-Azure,ABAP,ABAP Libraries for SAP native Integration with Azure Services
+abap2git,ABAP,"One-way sync from SAP to Git repo for ABAP objects allowing multiple systems in branches and multiple packages in one branch, supporting code objects plus configuration delta and HR/payroll PCR/schema"
+ability-attributes,TypeScript,Web Application Accessibility Attributes Runtime Validator
+abledom,TypeScript,Continuous detection of typical web application accessibility problems.
+ABS-CSA-Assets,JavaScript,This repo centralizes assets used by Microsoft CSAs. It is available to all organizations for educational purposes.
+abskorea,Shell,Korea STU ABS Team Blog
+abstrakt,Go,"Business oriented, config driven DevOps"
+aca-dev-day,JavaScript,Documentation and Workshop steps for Azure Container Apps Dev Day
+academic-knowledge-exploration-services-utilities,PowerShell,Utility tools and scripts for interacting with Microsoft Academic Knowledge Exploration Service (MAKES)
+AcademicContent,,"Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons."
+acc,Bicep,Apps Command Center Accelerator
+acc-vm-engine,Go,ACC VM template generator
+accbpg,Jupyter Notebook,Accelerated Bregman Proximal Gradient Methods
+AccCheckerExtensionForVS,C#,Detect and resolve common accessibility issues before you ship your code with a free Visual Studio extension.
+accelerated-dft,Jupyter Notebook,Repository to host supporting information and code samples for Accelerated DFT
+acceleratoRs,HTML,"Data science and AI solution accelerator suite that provides templates for prototyping, reporting, and presenting data science analytics of specific domains"
+Accera,C++,"Open source cross-platform compiler for compute-intensive loops used in AI algorithms, from Microsoft Research"
+access-reviews-samples,PowerShell,"This repo contains sample code that demonstrates programmatic access to Azure AD Access Reviews. Sample code includes reading and managing Access Reviews, as well as working on decisions and results of Access Reviews."
+accessibility-announcer,TypeScript,A tool to provide the screen reader announcements on the web.
+accessibility-insights-action,TypeScript,Github Action to scan for accessibility issues in github pages
+accessibility-insights-for-android-service,Java,Accessibility Insights for Android service
+accessibility-insights-service,TypeScript,Accessibility Insights Service
+accessibility-insights-web,TypeScript,Accessibility Insights for Web
+accessibility-insights-windows,C#,Accessibility Insights for Windows
+Accessible-Connect,TypeScript,Accessible videoconferencing platform focusing on DHH (Deaf and Hard of Hearing).
+AccessorFramework,C++,A C++ SDK for building cyber-physical applications using the Accessor Model
+AccountGuard,PowerShell,Security ARM Templates for AccountGuard Enrollees 
+ace,Objective-C++,Build Cordova apps with true native UI
+ace-ux-components,TypeScript,
+acon,Python,"Official implementation of paper ""ACON: Optimizing Context Compression for Long-horizon LLM Agents"""
+acoustic-bird-detection,Jupyter Notebook,Machine learning tools for acoustic bird detection
+Acoustic-Perception-for-Virtual-AI-Agents,C++,"This repository contains source code demonstrating the techniques discussed in the associated paper, ""Efficient Acoustic Perception for Virtual AI Agents"""
+AcousticScatteringData,MATLAB,Synthetic exterior acoustic scattering data and sample parsing code.
+acr,,"Azure Container Registry samples, troubleshooting tips and references"
+acs-kitchen-sink,TypeScript,Demonstrating different Azure Communication Services features
+act,Python,AML Command Transfer. A lightweight tool to transfer any command line to Azure Machine Learning Services
+action-armttk,Shell,Github Action for running ARM-TTK
+action-publish-symbols,TypeScript,GitHub Action to publish symbols to the Azure DevOps Package Management symbol server (Artifacts server).
+action-python,,
+activate-sensorcore,C#,Helper library for SensorCore SDK to activate Location and Motion data
+ActivateAzurewithDevOps,HTML,
+ActiveDirectoryDSC.Reverse,PowerShell,ReverseDSC Orchestrator for ActiveDirectory
+activities,C#,Lumia SensorCore SDK sample for Activity Monitor API.
+activity-log-export-automation,PowerShell,Connect Splunk to Azure Activity Log via PowerShell automation
+ACV,Jupyter Notebook,A series of work towards achieving ACV.
+acx-ado-automation,Python,
+acxengineeringxp_2,,
+ada,C++,Source code behind the Microsoft Research project Ada
+ADAF,Python,"This repository contains the code used for ""ADAF: An Artificial Intelligence Data Assimilation Framework for Weather Forecasting"""
+AdaM,,
+AdaMix,Python,This is the implementation of the paper AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning (https://arxiv.org/abs/2205.12410). 
+Adaptable,Java,"A tightly optimized representation of ordered, long-living, often-modified, predicate-filtered lists random-accessible by value and index. (Java)"
+adaptive-testing,Jupyter Notebook,Find and fix bugs in natural language machine learning models using adaptive testing.
+AdaptiveCards,C#,A new way for developers to exchange card content in a common and consistent way.
+AdaptiveCards-.NET,C#,
+adaptivecards-templates,TypeScript,A collection of Adaptive Card templates for well-known data models
+adaptive_cloud_community,,Public repository for hosting the Azure Adaptive Cloud Community content
+adb2spark,,
+ADBench,C++,Benchmarking various AD tools.
+adcs-proxy-exit-module,C++,Exit Module for Active Directory Certificate Services that proxies calls to external programs.
+AddingSpeechToBots,C#,Adding Speech to Conversational Bots
+AddOutlookJapanHoliday,VBScript,VBScript for adding Japan new Holidays to Outlook.
+Addressing-signal-delay-in-deep-RL,Python,Addressing Signal Delay in Deep Reinforcement Learning
+adfs-sample-block-user-on-adfs-marked-risky-by-AzureAD-IdentityProtection,C#,A sample AD FS 2019 Risk Assessment Model plug-in that blocks authentication or enforces MFA based on user risk level determined by Azure AD Identity Protection. 
+adfs-sample-msal-dotnet-native-to-webapi,C#,A sample showcasing how to build a native app signing-in users authenticated by AD FS 2019 and acquiring tokens using MSAL library to call Web API.
+adfs-sample-msal-dotnet-webapi-to-webapi-onbehalfof,C#,A sample showcasing how to implement an on-behalf-of (OBO) authentication using AD FS. The sample uses MSAL client library to obtain a token for accessing Web API. 
+adfs-sample-RiskAssessmentModel-RiskyIPBlock,C#,Sample plug-in to block authentication requests coming from specified extranet IPs. 
+adfsAuthAdapters,C#,External authentication adapters for AD FS
+adfsLogTools,,"Tools for parsing AD FS logs (admin events, audits, and debug logs)"
+adfsManagementTools,,A collection of scripts and tools for managing ADFS
+adfsOpenSource,,Documentation and guidance for ADFS Open Source
+adfsToolbox,PowerShell,A collection of PowerShell scripts for managing AD FS
+adfsUITesting,C#,Testing infrastructure for automated browser testing against AD FS
+adfsWebCustomization,JavaScript,A repository of useful Web Customizations for Active Directory Federation Services 
+ADLaM-Display,Makefile,"A display font for the ADLaM script, which is an indigenous writing system for some West African languages."
+adme-samples,HTML,
+admin-torch,Python,Understanding the Difficulty of Training Transformers
+ado-codespaces-auth,TypeScript,
+ado-ml-batch-train,Jupyter Notebook,
+ado-npm-auth,TypeScript,This package can automatically use the azureauth CLI to fetch tokens and update a user's .npmrc file for authenticating to Azure DevOps npm feeds.
+ads-extension-telemetry,TypeScript,
+ads-kerberos,C++,A package for providing kerberos authentication support in Azure Data Studio. 
+ads-service-downloader,TypeScript,Service downloader
+ADU,PowerShell,Appliance Diagnostic Utility (ADU) for Analytics Platform System (APS)
+advanced-formula-environment,,"Create, edit, and reuse formulas in Excel"
+advanced-github-copilot,,Advanced techniques and patterns to use GitHub Copilot in challenging codebases
+Advanced-Threat-Analytics,PowerShell,ATA PowerShell Module
+advancedsecurity,,
+AdventureWorksSkiApp,C#,The AdventureWorks Ski App provides a sample application that can be used to demonstrate the value of building in intelligence into an existing application. This app was first demoed at //build 2016.
+Adversarial-Chatter,Jupyter Notebook,
+AdversarialGMM,Python,Minimax Estimation of Conditional Moment Models
+advNLG,Python,
+AdvocacyPlatform,C#,"The Advocacy Platform is a cloud solution to automate the acquisition of case decisions, court hearings and location information from the EOIR hotline. Additionally, this solution helps NGOs working with Asylum seeker families at risk of deportation to allocate legal professionals/volunteers more efficiently."
+adx-automotive-demos,Python,Demos 
+adx-query-charts,TypeScript,Draw charts from Azure Data Explorer queries
+AEC-Challenge,,AEC Challenge
+aed-blockchain-learn-content,,Beta content for blockchain Learn modules
+aed-content-nasa-su20,Jupyter Notebook,This is the beta content for the learn modules that we are creating for NASA for 2020 internship
+aed-external-learn-template,,Template for creating Learn modules and Learning Paths
+aed-go-learn-content,,
+aed-learn-template,,
+aed-rust-learn-content,,Rust learning path content development repo.
+aed-wonder-woman,Python,
+aerial_wildlife_detection,Python,Tools for detecting wildlife in aerial images using active learning
+affectbased,Python,Affect-based Intrinsic Rewards for Learning General Representations: https://arxiv.org/abs/1912.00403
+AFUN-Demos,HTML,Demos for AFUN content for Microsoft Ignite the Tour content 
+agdebugger,TypeScript,
+agdiag,C#,"Diagnose AlwaysOn health events like failover events, and failure to failover events"
+agent-academy,JavaScript,Curated lessons on getting started building agents with Copilot Studio
+Agent-Christine,,Build your own agent for Marketplace assistance
+Agent-for-Contract-Processing-Solution-Accelerator,,"Solution Accelerator to show how to deploy an Agent configured in Copilot Studio to streamline NDA document creation, management and signing."
+agent-for-hr-service-solution-accelerator,HTML,"This solution streamlines HR service workflows with an AI-powered assistant that delivers instant answers, automates record updates, and provides intelligent support, saving time and elevating the employee experience."
+agent-for-rfp-response-solution-accelerator,,
+agent-forge,TypeScript,"AGENT-FORGE is a Context Engineering Toolkit that generates GitHub Copilot customization files for your VS Code project. Instead of manually authoring .github/ configuration, you describe what you need and a multi-agent AI pipeline plans, generates, validates, and installs everything."
+agent-framework,Python,"A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET."
+Agent-Framework-Samples,Jupyter Notebook,Agent Framework Samples  - showcasing ways in which agent framework can be utilized.
+agent-governance-toolkit,Python,"AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10."
+agent-lightning,Python,The absolute trainer to light up AI agents.
+agent-resources,HTML,Resources to help enterprises turn into frontier firms through agentic transformation
+agent-sessions-day,,A repo holding any content for Agent Sessions Day
+Agent365-devTools,C#,"The Microsoft Agent 365 DevTools CLI is a command-line interface tool designed to streamline the development, deployment, and management of Microsoft Agent 365 applications."
+Agent365-dotnet,C#,
+Agent365-nodejs,TypeScript,
+Agent365-python,Python,
+Agent365-Python-AI-First,Python,
+agent365-resources,HTML,Resources for Microsoft Agent 365
+Agent365-Samples,Python,
+AgentAsJudge,Python,An agentic evaluation framework
+agenthonseoul2025,SCSS,
+agentic-ai-lab,Jupyter Notebook,Azure AI Foundry & Agents Workshop
+agentic-ai-lab-dotnet,Jupyter Notebook,End-to-End Azure AI Foundry And Agents Development Laboratory
+agentic-applications-for-unified-data-foundation-solution-accelerator,TSQL,"This accelerator unifies enterprise data with Microsoft Fabric and applies agentic AI to enable faster, smarter decisions. With Microsoft Foundry agents and the Microsoft Agent Framework orchestration, teams can automate workflows, query data in natural language, and uncover insights that fuel agility, collaboration, and innovation."
+agentic-devops-sample,,agentic devops sample
+agentic-factory-hack,Python,"Build AI-powered predictive maintenance orchestration with Microsoft Foundry, multi-agent workflows, and MCP"
+agentic-sdlc-starter,Shell," Reference architecture for spec-driven, AI-assisted software development using GitHub Copilot, MCP, and repo-based context engineering."
+AgenticCookBook,Python,The “Agentic Cookbook for Generative AI Agent usage” is a comprehensive guide designed to empower users with the knowledge and tools to effectively implement and utilize Generative AI Agents within their workflows.
+AgentPlatformAdvisor,JavaScript,Agent Platform Advisor
+agentrc,TypeScript,Get your repo ready for AI.
+agentrl,Python,
+AgentRx,Python,
+Agents,PowerShell,"The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat."
+Agents-for-Enhanced-Customer-Care-Solution-Accelerator,,Solution Accelerator to show how to deploy an Agent configured in a voice channel to streamline contact center operations.
+Agents-for-js,TypeScript,This repository is for active development of the Microsoft 365 Agent SDK components for JavaScript
+Agents-for-net,C#,This repository is for active development of the Microsoft 365 Agent SDK components for .NET
+Agents-for-python,Python,This repository is for active development of the Microsoft 365 Agent SDK components for Python
+agents-humanoversight,Python,Human Oversight for Autonomous AI Agents using Azure Logic Apps + Python
+Agents-M365Copilot,C#,Microsoft 365 Copilot APIs Client Libraries
+AgentSchema,TypeScript,Declarative Agent Schema
+AgentsClientSDK.Android,,Agents ClientSDK Android repository for Sample apps and releases
+AgentsClientSDK.iOS,,Agents ClientSDK iOS repository for Sample apps and releases
+AgentsClientSDK.Windows,C#,Agents ClientSDK Windows repository for Sample apps and releases
+agentsleague,,"A high-energy developer challenge that brings an e-sports twist to agentic AI with live AI Battles,  asynchronous community challenges, GitHub-based submissions and more!"
+agentsleague-techconnect,Python,"Agents League is a fast-paced internal developer challenge with an e-sports mindset, centered around on-site AI battles. Teams build, adapt, and compete in real time, solving agentic AI challenges and submit their projects to win prizes."
+AGIC-Installer-assistant,PowerShell,This is a PowerShell script that will guide you through the installation of the AGIC controller for AKS (Brownfield deployment only)
+agogosml,Python,agogosml is a flexible data processing pipeline that addresses the common need for operationalizing ML models at scale
+ahds-inferno,Ruby,Inferno test suite for Azure Health Data Services FHIR service.
+AHS-AppServiceDotNet,JavaScript,Code for SmartHotel 360 Registration app for the AHS
+AI,Python,Microsoft AI
+ai-agent-eval-scenario-library,,
+ai-agent-evals,Python,"Github action to evaluate AI agent applications using model as the judge, content safety and mathematical metrics."
+ai-agent-runbooks,,Go-to hub for building and deploying production-ready AI Agent solutions
+ai-agents-for-beginners,Jupyter Notebook,12 Lessons to Get Started Building AI Agents
+ai-at-edge,,Web pages for AI@Edge community
+ai-audio-descriptions,TypeScript,
+AI-Chat-App-Hack,,"HackTogether: The Microsoft Python Chatbot Hack | Register, Hack, Win"
+ai-chat-protocol,TypeScript,A library + API spec for easily streaming generative AI output to your chat applications.
+ai-dev-gallery,C#,An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
+ai-developer,TypeScript,This repository contains hackathon challenges for Semantic Kernel.
+AI-Developer-Plugin-for-Eclipse,,AI Developer Plugin for Eclipse
+ai-discovery-agent,Python,AIDA the AI Discovery Agent and Workshop Facilitator
+ai-edu,HTML,"AI education materials for Chinese students, teachers and IT professionals."
+AI-For-Beginners,Jupyter Notebook,"12 Weeks, 24 Lessons, AI for All!"
+AI-for-Operations-Framework,Python,The purpose of this repository is to provide useful tools for the deployment of an Azure Landing Zone AI ready PoC for Operational purpose with some ready-to-use tools
+ai-for-startups-lab,,Workshop for the BASES Challenge at Stanford
+ai-freezer-azure,C#,Anomaly detecting scientific freezer monitor using and Adafruit Feather Huzzah32 and Azure Cognitive Services.
+ai-freezer-monitor,Jupyter Notebook,ESP32 Temperature monitor designed to work in ULT freezers.
+ai-gallery-extension,TypeScript,
+AI-Immersion-Workshop,Jupyter Notebook,"Workshop materials from the AI Immersion Workshop, for attendees to access and use"
+ai-in-fabric-ai-tour-demos-fy26,,
+AI-in-One-Dashboard,PowerShell,AI-in-One Dashboard Power BI template for comprehensive AI usage analytics
+AI-in-One-Dashboard-Extended,PowerShell,"Extended AI-in-One Dashboard with Copilot credit consumption, product feedback, and Copilot Studio transcript analytics"
+ai-mindset-experiment,TypeScript,A field experiment exploring the effect of cognitive and behavioral scaffolding.
+ai-notebooks,Jupyter Notebook,
+AI-Pex-for-SDC,,This repository is for Project 'AI-Pex' in Microsoft EPS Asia ISV PSA team. Some guidance and sample codes are provided to build AI SaaS solution in this repository.
+ai-powered-notes-winui3-sample,C#,
+ai-py-param-validation,Python,Parameter Validation for Python method and function inputs.
+AI-Red-Teaming-Playground-Labs,TypeScript,AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.
+AI-Robot-Challenge-Lab,Python,AI Robot Challenge Lab
+ai-school-custom-vision-service-intro,C#,This is an introduction to how to get started using the Custom Vision Service to generate custom models using the web interface and the SDK.
+ai-sentry,Python,"AI-Sentry: A lightweight, pluggable facade layer for Azure Open AI, addressing common cross-cutting concerns for enterprise-wide scaling."
+AI-System,Python,System for AI Education Resource.
+ai-tour-26-zava-diy-dataset-plus-mcp,Python,
+ai-utilities,Jupyter Notebook,SAMPLE: Microsoft AI Azure Machine Learning Utilities and Wrappers.
+ai.ed,TypeScript,AI for (programming) EDucation
+AI2BMD,Python,AI-powered ab initio biomolecular dynamics simulation
+ai4eutils,Jupyter Notebook,Shared utility scripts for AI for Earth projects and team members
+AI4FluidSimulations,C++,Train large-scale surrogate models for CO2 flow in porous media or for solving the 3D Navier Stokes Equation.
+ai4g-flood,HTML,Toolkit for using Microsoft AI for Good team's flood detection model with SAR imagery
+ai4s-jobq,Python,"Enables multiple users to push work items to an Azure Queue, while one or more workers pull and process tasks asynchronously."
+AIandJS,,
+aibast-agents-library,HTML,Main repository for AI BAST Specialist Teal AI Agents Library
+aibuilder-labs,,Step-by-step labs for AI Builder & AI prompt use cases
+AICentral,C#,"An AI Control Centre for monitoring, authenticating, and providing resilient access to multiple Open AI services. "
+aici,Rust,AICI: Prompts as (Wasm) Programs
+aicreator,Python,aicreator for aidata
+AIDocIntelligence,Python,"AI Document Intelligence is an AI service that applies advanced machine learning to extract text, key-value pairs, tables, and structures from documents automatically and accurately"
+AIFluency,,
+AIForAccessibility-Samples,JavaScript,"Microsoft's repo for AI for Accessibility prototypes, demos and code samples"
+AIforEarth-API-Development,Jupyter Notebook,This is an API Framework for AI models to be hosted locally or on the AI for Earth API Platform (https://github.com/microsoft/AIforEarth-API-Platform).
+AIforEarth-API-Platform,Shell,"The AI for Earth API Platform is a distributed infrastructure designed to provide a secure, scalable, and customizable API hosting, designed to handle the needs of long-running/asynchronous machine learning model inference. It is to be used with the AI For Earth API Framework (https://github.com/microsoft/AIforEarth-API-Development)."
+AIforEarthDataSets,Jupyter Notebook,Notebooks and documentation for AI-for-Earth-managed datasets on Azure
+AIforITOps,C#,Workshop for IT/Ops teams to learn how to manage AI-enabled applications on Microsoft Azure.
+aifundamentalbootcamp,Jupyter Notebook,Get Hands-On with AI Apps in the App Innovation Fundamental Bootcamp
+aihlsIgnited,,AI-driven solutions for Health & Life Sciences with Azure !
+aiida-autocas,Python,AiiDA plugin to perform automatic selection of active spaces for multireference calculations.
+aiida-dynamic-workflows,Python,An AiiDA plugin for dynamically defining workflows using Python functions
+aiida-nwchemex,Python,AiiDA plugin for NWChemEx
+aiida-pyscf,Python,AiiDA plugin for the Python-based Simulations of Chemistry Framework (PySCF)
+AIInstitute,HTML,Repository for managing the AI Institute
+ailab,C#,"Experience, Learn and Code the latest breakthrough innovations with Microsoft AI"
+AImagery,ShaderLab,
+AIMFGIgnited,JavaScript,"AI MFG Ignited is a Microsoft-hosted webinar series and sample code repository showcasing real-world Azure AI solutions for the manufacturing industry. Explore hands-on assets, demos, and session materials designed to accelerate AI adoption."
+AIOpsLab,Python,"A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents."
+aip,,
+AirbandData,,
+AIReferenceArchitectures,,Official Azure Reference Architectures for AI workloads 
+airflow-providers-microsoft-fabric,Python,Repository containing the source code for the Microsoft Fabric provider for Airflow. 
+AirSim,C++,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+AirSim-Drone-Racing-Lab,Python,"A framework for drone racing research, built on Microsoft AirSim."
+AirSim-Drone-Racing-Lab-Source,C++,AirSim source + Envs behind https://github.com/microsoft/AirSim-Drone-Racing-Lab 
+AirSim-Drone-Racing-VAE-Imitation,Python,"Code associated with our paper ""Learning Visuomotor Policies for Aerial Navigation Using Cross-Modal Representations"": https://arxiv.org/abs/1909.06993"
+AirSim-NeurIPS2019-Drone-Racing,Python,"Drone Racing @ NeurIPS 2019, built on Microsoft AirSim"
+AISchoolTutorials,C#,This repository contains the developer tutorials and samples to demonstrate how to create the experiments contained on AI Lab.
+aisdkforsapabap,ABAP,AI SDK for SAP ABAP
+AISkillsForWindows,,Contains samples for implementing Windows Skills by extending the preview base API and using exsting skill packages
+aitk-vscode-copilot-chat,,Copilot Chat extension for VS Code and aitk
+aitour-advanced-coding-visual-studio-and-github-copilot,C#,
+aitour-ai-agents-theater-session,HTML,Resources and content for a 15-minute theater-style talk on the Azure AI Agent Service
+aitour-ai-and-low-code-innovation,,
+aitour-ai-apps-with-scalable-database,Jupyter Notebook,
+aitour-ai-readiness-with-azure,,
+aitour-azure-openai-assistants,Python,
+aitour-blueprint-to-transform-business,,
+aitour-build-a-copilot-on-azure-ai,,"Workshop ""Build a Retail Copilot Code-First on Azure AI"": attendee and presenter resources."
+aitour-build-your-first-agent-with-azure-ai-agent-service,,AI Tour Build Your First Agent with Azure AI Agent Service
+aitour-building-copilots-with-copilot-studio,C#,
+aitour-buisness-impact-of-intelligent-apps,,
+aitour-cloud-native-apps-with-azure-ai-and-aks,HCL,
+aitour-concept-to-creation-ai-studio,Jupyter Notebook,
+aitour-copilot-implementation-essentials,,
+aitour-copilot-security-practices,,
+aitour-copilot-studio-agents-and-experiences,,
+aitour-customizing-microsoft-copilot,TypeScript,
+aitour-customizing-trustworthy-gen-ai-systems-with-azure-open-ai,,
+aitour-data-analytics-for-ai-innovation,,
+aitour-data-security-for-ai,,
+aitour-e2e-dev-with-prompty-and-ai-studio,Python,
+aitour-ecommerce-app-with-ai,C#,
+aitour-eshop-api,C#,An e-commerce API in .NET
+aitour-Essential-Prompting-for-GitHub-Copilot-in-VS-Code,JavaScript,
+aitour-Essential-Prompting-for-GitHub-Copilot-in-VS-Code-v2,,Containing speaker resources for a talk called BRK431 for AI Tour
+aitour-exploring-cutting-edge-models,C++,
+aitour-generative-ai-in-azure,Shell,
+aitour-get-started-with-fabric,,
+aitour-getting-started-with-ai-agents,Jupyter Notebook,
+aitour-github-advanced-security-workflow,JavaScript,
+aitour-interact-with-llms,,
+aitour-leveraging-ai-for-infrastructure-management,Dockerfile,
+aitour-llmops-with-gen-ai-tools,,AI Tour 2025 BRK451 Code-First LLMOps from Prototype to Production with GenAI Tools
+aitour-models-as-a-service-15-minute-theatre-talk,Python,This the models as a service 15 minute theatre talk
+aitour-modern-security-with-copilot,,
+aitour-operate-ai-responsibly-with-ai-studio,Jupyter Notebook,
+aitour-opimizing-your-ai-costs,PostScript,
+aitour-preparing-for-ai-workloads,,
+aitour-rag-with-ai-search,,
+aitour-reimagine-fabric-intelligence,,
+aitour-repo-principal-list,,
+aitour-secure-future-in-ai-age,,
+aitour-securing-ai-apps-on-azure,,
+aitour-unlock-value-with-copilot,,
+aitour-whats-new-with-fabric,,
+aitour-windows-theater,C#,
+aitour-writing-assistant-with-azure-openai,,"Attendee and presenter resources for the workshop ""Build a multi-tasking assistant with Azure OpenAI""."
+aitour26-BRK422-deploy-and-manage-agents-securely-at-scale-with-the-copilot-control-system,,
+aitour26-BRK431-advanced-agent-development-with-copilot-studio,PowerShell,
+aitour26-BRK441-Build-and-launch-AI-agents-fast-with-Microsoft-Foundry-and-the-AI-Toolkit,Python,
+aitour26-BRK442-github-copilot-as-an-ai-agent-in-the-developer-workflow,Python,"Practical session demonstrating GitHub Copilot's agent-like behaviors, integrating deeply into engineering processes"
+aitour26-BRK443-efficient-model-customization-with-microsoft-foundry,Jupyter Notebook,
+aitour26-BRK444-advanced-retrieval-for-your-ai-apps-and-agents-on-azure,,"Resources for the AI Tour Talk on ""Advanced Retrieval for your AI Apps and Agents"" on Azure - slides, talk recording, demo recording, demo setup instructions."
+aitour26-BRK445-building-enterprise-ready-ai-agents-with-microsoft-foundry,C#,
+aitour26-BRK447-agentic-use-of-github-copilot-within-visual-studio,C#,
+aitour26-BRK461-whats-new-in-microsoft-databases-empowering-ai-driven-app-dev,,
+aitour26-BRK462-enable-agentic-ai-apps-with-a-unified-data-estate-in-microsoft-fabric,,
+aitour26-BRK471-ai-tools-for-infrastructure-management,,
+aitour26-BRK482-secure-govern-and-scale-your-ai-agents-with-azure-api-management,,
+aitour26-LTG150-Microsoft-Agent-Framework-for-next-gen-multi-agent-solution,Python,
+aitour26-LTG151-build-trustworthy-ai-with-systematic-evaluations-in-microsoft-foundry,Jupyter Notebook,"Learn to build trustworthy AI with systematic evaluations in Azure AI Foundry. The session covers quality, safety, agent and custom evaluators"
+aitour26-LTG152-from-protocol-to-practice-build-and-use-your-first-mcp-server,Python,"Minimal Python MCP server demo for AI Tour: tracks expenses in CSV, exposes them as a resource, and runs in VS Code with GitHub Copilot Chat; includes docs and presenter guides."
+aitour26-LTG153-automate-model-selection-with-microsoft-foundry-model-router,TypeScript,
+aitour26-LTG154-breaking-down-the-ai-tour-advisor-agent,Python,
+aitour26-LTG155-fast-data-transformation-in-fabric-with-onelake-and-the-data-wrangler,,
+aitour26-LTG156-safeguard-agentic-ai-solutions-with-ai-red-teaming-agent,,
+aitour26-LTG158-level-up-as-a-data-expert-with-ai-ready-databases-and-tools,,
+aitour26-resource-center,,
+aitour26-WRK523-copilot-ready-strategy-data-and-security,,
+aitour26-WRK532-building-agentic-solutions-with-copilot-studio,Python,
+aitour26-WRK540-unlock-your-agents-potential-with-model-context-protocol,Python,
+aitour26-WRK541-real-world-code-migration-with-github-copilot-agent-mode,C#,
+aitour26-WRK542-prototype-agents-with-the-ai-toolkit-and-model-context-protocol,Python,
+aitour26-WRK560-modernize-your-data-estate-ms-fabric-azure-databricks-and-microsoft-foundry,,
+aitour26-WRK570-improving-ops-with-azure-copilot-and-github-copilot,TypeScript,
+AIVisualProvision,C#,Connect(); 2018 - AI Visual Provision Sample App 
+AI_Agents_Hackathon,,A free virtual hackathon for building AI agents with Microsoft and Azure.
+Ai_With_PGSQL,,ai with pgsql
+ai_with_pgsqldb,Jupyter Notebook,
+ajaxmin,C#,The Microsoft Ajax Minifier enables you to improve the performance of your Ajax applications by reducing the size of your Cascading Style Sheet and JavaScript files.
+aka,,Doc page listing all public aka.ms links for Microsoft admin portals
+Akal-Badi-ya-Bias,Python,"Official Codebase for ""Akal Badi ya Bias: An Exploratory Study of Gender Bias in Hindi Language Technology"" (published in FAccT 2024)"
+Akoustos,Jupyter Notebook,Bioacoustics platform
+AKS-Arc-Apps,PowerShell,Docs and scripts to simplify application deployment on AKS enabled by Arc
+aks-dev-day,HTML,Labs and information for AKS Dev Day.
+aks-ingress-contour-cert-manager-lets-encrypt,Shell,"A lab to setup Contour, Cert-Manager, and Let's Encrypt ingress on AKS"
+aks-postgre-keyrotation,Shell,"This example project demonstrates how to handle secret rotation from a web application running in Azure Kubernetes Service, stores the secrets into KeyVault and then uses those secrets to access an Azure PostgreSQL instance."
+AKSDeploymentTutorial,Jupyter Notebook,Tutorial on how to deploy Deep Learning models on GPU enabled Kubernetes cluster
+aksworkshop,CSS,Azure Kubernetes Service (AKS) workshop website content
+AL,PowerShell,Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.
+AL-Go,PowerShell,The plug-and-play DevOps solution for Business Central app development on GitHub
+AL-Go-Actions,PowerShell,
+AL-Go-AppSource,PowerShell,Template for Business Central AppSource projects. Click the link below to create a new repository.
+AL-Go-PTE,PowerShell,Template for Business Central Per Tenant Extensions projects. Click the link below to create a new repository.
+ALAppExtensions,AL,Repository for collaboration on Microsoft AL application add-on and localization extensions for Microsoft Dynamics 365 Business Central.
+ALEX,C++,"A library for building an in-memory, Adaptive Learned indEX"
+alguidelines,SCSS,Best Practices and Design Patterns for the AL Language
+AliveInLean,Lean,Formally verified implementation of Alive in Lean
+all-things-azure,Python,
+aloop,Python,Describe what you want in plain text. An AI agent relentlessly refines it overnight. You wake up to the finished version
+Alphahunt,Python,Training threat hunting agents through scalable realistic synthetic data
+Aly-Profile,,
+Alympics,Python,
+AmbariBasedHadoopExporter,C#,"Exporter based on Hadoop clusters that use Ambari as their administrative tool, leveraging Ambari API to export cluster's metrics."
+AMBROSIA,C#,Robust Distributed Programming Made Easy and Efficient
+amelabs,HCL,A repository for storing content related to lab deployments for CSS team Azure Monitoring Enterprise.
+Americas-Power-Platform-Global-Black-Belts,,
+amf0,Go,General-purpose encoder and decoder for amf0
+aml-acceleration-template,Python,A template repository for quickly adopting Azure Machine Learning
+aml-pipelines-demo,Python,
+amlFilesystem-lustre,C,Lustre Repository with MS patches
+amlFilesystem-tools,Shell,Lustre diagnostic tools for running Lustre in Azure
+AMLSDKRModelsOperationalization,HTML,Operationalize R models at scale using Python via Azure ML SDK
+AMLWorkshop,Jupyter Notebook,Student Materials for MTC Azure ML Workshop
+AML_Interpret_usecases,Jupyter Notebook,AML Interpret usecases demo
+AMOS,Python,[ICLR 2022] Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators
+amplifier,Shell,
+amplifier-app-cli,Python,Reference implementation of CLI interface for Amplifier project
+amplifier-app-log-viewer,Python,Reference implementation of a Log Viewer app for the Amplifier project
+amplifier-app-openclaw,Python,OpenClaw skill for the Amplifier project
+amplifier-bundle-a2a,Python,A2A bundle for the Amplifier project
+amplifier-bundle-attractor,Python,Attractor bundle for the Amplifier project
+amplifier-bundle-browser,Python,Browser bundle for the Amplifier project
+amplifier-bundle-browser-tester,,"Browser automation bundle for Amplifier - JS rendering, auth flows, visual verification via agent-browser"
+amplifier-bundle-containers,Python,Containers bundle for the Amplifier project
+amplifier-bundle-design-intelligence,,Design intelligence bundle for the Amplifier project
+amplifier-bundle-digital-twin-universe,Python,Digital Twin Universe bundle for the Amplifier project
+amplifier-bundle-distro,Python,Managed bundle for Amplifier distro
+amplifier-bundle-dot-graph,Python,DOT graph bundle for the Amplifier project
+amplifier-bundle-execution-environments,Python,Execution environments bundle for the Amplifier project
+amplifier-bundle-filesystem,Python,Filesystem bundle for the Amplifier project
+amplifier-bundle-gitea,Python,Gitea bundle for the Amplifier project
+amplifier-bundle-issues,Python,Amplifier issues bundle
+amplifier-bundle-lsp,Python,General bundle for adding LSP support to Ampllfier project bundles
+amplifier-bundle-lsp-python,,Python LSP bundle for Amplifier project bundles
+amplifier-bundle-lsp-rust,,Rust LSP bundle for the Amplifier project
+amplifier-bundle-lsp-typescript,,TypeScript/JavaScript LSP bundle for Amplifier - semantic code intelligence via typescript-language-server
+amplifier-bundle-modes,Python,Dynamic modes bundle for Amplifier project
+amplifier-bundle-my-voice,Python,My Voice bundle for the Amplifier project
+amplifier-bundle-notify,Python,Notification hook bundle for Amplifier - desktop and terminal notifications when assistant turns complete
+amplifier-bundle-observers,Python,Observers bundle for the Amplifier project
+amplifier-bundle-orchestration,Python,Various orchestration patterns as bundles for amplifier
+amplifier-bundle-python-dev,Python,Python development bundle for the Amplifier project
+amplifier-bundle-recipes,Python,Recipes bundle for the Amplifier project
+amplifier-bundle-routing-matrix,Python,Routing Matrix bundle for the Amplifier project
+amplifier-bundle-rust-dev,Python,Rust development bundle for the Amplifier project
+amplifier-bundle-shadow,Python,Shadow environment bundle for the Amplifier project
+amplifier-bundle-skills,Python,Skills bundle for the Amplifier project
+amplifier-bundle-stories,Python,Stories bundle for the Amplifier project
+amplifier-bundle-superpowers,Python,Superpowers bundle for the Amplifier project
+amplifier-bundle-terminal-tester,Python,Terminal testing bundle for the Amplifier project
+amplifier-bundle-ts-dev,Python,"Comprehensive TypeScript/JavaScript development tools for Amplifier - code quality, LSP, and expert agent"
+amplifier-bundle-typescript-dev,Python,Typescript development bundle for the Amplifier project
+amplifier-bundle-webllm,Python,WebLLM with WebGPU bundle for running amplifier-core in browsers the Amplifier project
+amplifier-bundle-webruntime,Python,Web Runtime bundle for the Amplifier proejct
+amplifier-chat,Python,Chat plugin for Amplifier service
+amplifier-collection-design-intelligence,Python,Reference implementation of a design intelligence collection for the Amplifier project
+amplifier-collection-issues,Python,An amplifier collection containing modules and profiles for amplifier task management.
+amplifier-collection-recipes,Python,Reference implementation of a Recipes collection for the Amplifier project
+amplifier-collection-toolkit,Python,Reference implementation of a toolkit collection for the Amplifier project
+amplifier-collections,Python,Reference implementation of a collection's library for the Amplifier project
+amplifier-config,Python,Reference implementation for a config library for the Amplifier project
+amplifier-core,Rust,
+amplifier-distro,Python,Amplifier experiences
+amplifier-docs,Python,Documentation for the Amplifier project
+amplifier-foundation,Python,Foundation library for the Amplifier project
+amplifier-lib,Python,Python library for Amplifier
+amplifier-module-context-persistent,Python,Reference implementation of a persistent context module for the Amplifier project
+amplifier-module-context-simple,Python,Reference implementation of a simple context module for the Amplifier project
+amplifier-module-hook-shell,Python,Shell-based hooks module for Amplifier with Claude Code format compatibility
+amplifier-module-hooks-approval,Python,Reference implementation of an approval hook module for the Amplifier project
+amplifier-module-hooks-backup,Python,Reference implementation for a backup hooks module for the Amplifier project
+amplifier-module-hooks-logging,Python,Reference implementation of a logging hook module for the Amplifier project
+amplifier-module-hooks-redaction,Python,Reference implementation for a redaction hook module for the Amplifier project
+amplifier-module-hooks-scheduler-cost-aware,Python,Reference implementation of a cost-aware scheduler hooks module for the Amplifier project
+amplifier-module-hooks-scheduler-heuristic,Python,Reference implementation for a heuristic scheduler hooks module for the Amplifier project
+amplifier-module-hooks-status-context,Python,Reference implementation of a status context hooks module for the Amplifier project
+amplifier-module-hooks-streaming-ui,Python,Reference implementation of a streaming UI hook module for the Amplifier project
+amplifier-module-hooks-todo-reminder,Python,Reference implementation of a Todo Reminder hooks module for the Amplifier project
+amplifier-module-loop-basic,Python,Reference implementation for a basic loop module for Amplifier project
+amplifier-module-loop-events,Python,Reference implementation for an events loop module for the Amplifier project
+amplifier-module-loop-streaming,Python,Reference implementation for a streaming loop module for the Amplifier project
+amplifier-module-provider-anthropic,Python,Reference implementation for an Anthropic provider for the Amplifier project
+amplifier-module-provider-azure-openai,Python,Reference implementation of an Azure OpenAI provider module for the Amplifier project
+amplifier-module-provider-gemini,Python,Reference implementation of a Gemini provider module for the Amplifier project
+amplifier-module-provider-github-copilot,Python,Enables access to GitHub Copilot models via the Copilot SDK
+amplifier-module-provider-litellm,Python,LiteLLM provider module for the Amplifier project
+amplifier-module-provider-mock,Python,Reference implementation for a mock provider module for the Amplifier project
+amplifier-module-provider-ollama,Python,Reference implementation of an Ollama provider module for the Amplifier project
+amplifier-module-provider-openai,Python,Reference implementation for an OpenAI provider module for the Amplifier project
+amplifier-module-provider-vllm,Python,Reference implementation of a vLLM provider module for the Amplifier project
+amplifier-module-resolution,Python,Reference implementation for a module resolution library for the Amplifier project
+amplifier-module-tool-bash,Python,Reference implementation for a bash tool module for the Amplifier project
+amplifier-module-tool-filesystem,Python,Reference implementation for a filesystem tool module for the Amplifier project
+amplifier-module-tool-mcp,Python,Add MCP server capabilities to Amplifier
+amplifier-module-tool-search,Python,Reference implementation for a search tool module for the Amplifier project
+amplifier-module-tool-skills,Python,
+amplifier-module-tool-slash-command,Python,"Extensible slash command system for Amplifier, enabling custom commands defined as Markdown files."
+amplifier-module-tool-task,Python,Reference implementation of a task tool module for the Amplifier project
+amplifier-module-tool-todo,Python,Reference implementation of a Todo tool module for the Amplifier project
+amplifier-module-tool-web,Python,Reference implementation of a web tool module for the Amplifier project
+amplifier-profiles,Python,Reference implementation for a profile's library for the Amplifier project
+amplifier-voice,Python,"Amplifier Voice app, standalone or as a plugin to amplifierd service"
+amplifier-workspace,Python,Workspace tool for the Amplifier project
+amplifierd,Python,Amplifier service
+amplify,Shell,Utility to extend any bash command
+AMRL-ICLR2020,Python,Code for AMRL: Aggregated Memory For Reinforcement Learning published at ICLR 2020 (https://iclr.cc/virtual_2020/poster_Bkl7bREtDr.html). The research is focussed on ignoring noise and irrelevant features in RL agents with memory.
+analysing_pii_leakage,Python,The repository contains the code for analysing the leakage of personally identifiable (PII) information from the output of next word prediction language models.
+Analysis-Framework-for-TVM,Python,Static analysis framework for analyzing programs written in TVM's Relay IR.
+Analysis-Services,C#,Git repo for Analysis Services samples and community projects
+Analytics-Hub,,"A central hub for analytics resources, linking to repositories, guides, and templates leveraging MAC, Purview, and Viva Insights."
+analyzer-for-robot-teaching-demonstrations,Python,Analyzer for human demonstrations during robot teaching
+AnaMeta,Python,"Code, model and data for ACL'23 paper ""AnaMeta: A Table Understanding Dataset of Field Metadata Knowledge Shared by Multi-dimensional Data Analysis Tasks"""
+AnanthaRekha,C#,Generates varieties of images of randomized but semantically correct technical diagrams like flow charts and state diagrams. These images can be used to train NNs that perform image segmentation tasks.
+ANCE,Python,A novel embedding training algorithm leveraging ANN search and achieved SOTA retrieval on Trec DL 2019 and OpenQA benchmarks
+android-app-size-diff,TypeScript,Android app size measuring in your CI
+android-samples,Kotlin,This repo contains samples that demonstrate how to use various Microsoft APIs in Android apps.
+Angara,F#,Angara: the modelling environment https://www.microsoft.com/en-us/research/project/distribution-modeller
+Angara.Chart,F#,"Allows to define and display a chart as a collection of plots such as line, band, markers, heatmap. Supports visualization of uncertain values represented as quantiles."
+Angara.Flow,F#,"A .NET framework for composing, evaluating, inspecting and persisting computational experiments which are represented as a dataflow."
+Angara.Serialization,F#,An extendible library for serialization of an arbitrary objects to JSON format extended with type information to facilitate interoperability between .NET and JavaScript platforms.
+Angara.Statistics,F#,A collection of statistics algorithms from Mersenne twister generator to MCMC sampling.
+Angara.Table,F#,"A library that contains types for table representation and operations to manipulate with tables, as well as save and load them from text files such as CSV files."
+angle,,ANGLE: OpenGL ES to DirectX translation
+angular-react,TypeScript,Use React components inside Angular
+angular2-in-visual-studio,TypeScript,Sample project for using the Angular 2 Language Service in Visual Studio
+angular2-slickgrid,TypeScript,SlickGrid with Angular2 wrapper and virtualized data support.
+AngularLanguageServiceExtFeedback,,
+Annotation-Factory,Python,Simple Python package for converting between CustomVision <-> Pascal VOC <-> YOLO annotations
+anomaly-detector,Python,
+anomalydetector,Python,SR-CNN
+AnsibleLabs,Python,Ansible on Azure Lab playbooks and documentation
+antares,C++,"Antares: an automatic engine for multi-platform kernel generation and optimization. Supporting CPU, CUDA, ROCm, DirectX12, GraphCore, SYCL for CPU/GPU, OpenCL for AMD/NVIDIA, Android CPU/GPU backends."
+AnthropomorphicIntelligence,Python,"Advancing AI by embracing human-likeness for better AI understanding, human–AI collaboration, and social simulation, bridging technology and genuine human experience."
+AnyContainer,C#,Allows swapping out IoC containers without rewriting registration or resolve code.
+anymatch,JavaScript,":bangbang: Matches strings against configurable strings, globs, regular expressions, and/or functions"
+aoai-api-simulator,Python,A sample showing how to create a simulated API implementation for Azure OpenAI (AOAI)
+aoai-batch-buddy,C#,Submit and monitor batch jobs to Azure OpenAI
+aoai-enrichment,,Enrichment of user questions with vector database and functions to provide grounding to the language model on an organizations data corpus. 
+aoai-logging-with-apim,C#,
+aoai-realtime-multi-assistants,TypeScript,AOAI Realtime sample with multiple assistants
+aoai-virtual-assistant,JavaScript,Solution accelerator for getting started with Azure OpenAI virtual assistants
+aoc,Python,"Repository for the digital twin of the Analog-Optical Computer, a novel in-memory analog AI accelerator targeting inference of fixed-point AI models and constrained quadratic optimization problems."
+AOCoptimizer.jl,Julia,Optimization solver backend for analog optical computer
+aosm-tips-tricks,Bicep,"Tips, tricks and documentation for Azure Operator Service Manager"
+aosm-values-merge,PowerShell,Extracts and merges helm values from a deployed AOSM network function resource with newValues provided by a publisher.
+apache-airflow-microsoft-fabric-plugin,Python,
+Apache-Provider,C++,Apache Monitoring Agent for OMI Server
+apex,Python,A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
+apex_plus,Python,APEX+ is an LLM Serving Simulator
+api-docs-ui,TypeScript,React-based UI components library for api documentation portals
+api-extractor.com-website,SCSS,GitHub Pages website for https://api-extractor.com
+api-guidelines,,Microsoft REST API Guidelines
+api.rushstack.io-website,,GitHub Pages deployments for https://api.rushstack.io
+apim-auth-entraid-approles,,
+apim-auth-entraid-with-approles,,This sample describes how Azure API Management (APIM) can centralized authentication and authorizaton of APIs using Entra ID using APIM Policy (validate-jwt) and App Roles of Entra ID. 
+apm,Python,Agent Package Manager
+apm-action,TypeScript,GitHub Action for Agent Package Manager
+apm-sample-package,,Sample Agent Package Manager package
+App-Actions-On-Windows-Samples,,This repo provides some examples of how to build and consume App Actions on Windows.
+app-camp,JavaScript,On-demand videos and labs - come to App Camp and learn how to port your web application to Microsoft Teams!
+app-center-app-react-native,JavaScript,React Native based client app for App Center.
+app-center-app-shared,,Shared repo supporting the App Center client apps.
+app-center-app-xamarin,C#,Xamarin based client app for App Center
+app-dev-briefings,Java,A set of demo applications for use with Azure application development services.
+App-Extensibility-Sample,C#,This repo contains the sample shown during the App Extensibility Session during Build 2016
+app-innovation-team,C#,Public repo for the App Innovation team
+app-innovation-workshop,C#,"Hands-on workshop designed to help you learn Azure, Mobile & AI"
+app-metadata,TypeScript,"Provides metadata extraction for iOS, Android and Windows packages."
+app-store-badge,HTML,"Web component that renders the ""Get this app on Microsoft Store"" badge"
+app-store-vsts-extension,TypeScript,Visual Studio Team Services (VSTS) extension for performing continuous delivery to the App Store store from your automated CI builds
+App-Templates,,Packaged app samples to accelerate devs journey to cloud 
+app-with-sharepoint-knowledge,C#,
+appcenter,Shell,Central repository for App Center open source resources and planning.
+appcenter-build-scripts-examples,,A collection of build script examples to be used in the Build service of https://appcenter.ms
+appcenter-cli,TypeScript,Command-line Interface (CLI) for Visual Studio App Center
+appcenter-rest-python,Python,A minimal Python wrapper around the App Center REST API
+appcenter-sample-export,C#,This repo contains sample .NET Core library for parsing Export blobs created via App Center Continuous Export. 
+appcenter-sampleapp-android,Java,App Center Sample App for Android
+appcenter-sampleapp-ios-swift,Swift,App Center Sample App for iOS
+appcenter-sampleapp-macos-swift,Swift,App Center Sample App for macOS
+appcenter-sampleapp-react-native,TypeScript,App Center Sample App for React Native
+appcenter-sampleapp-tvos-swift,Swift,App Center Sample App for tvOS
+appcenter-sampleapp-xamarin,C#,App Center Sample App for Xamarin
+appcenter-sdk-android,Java,Development repository for the App Center SDK for Android
+appcenter-sdk-android-breakpad,C++,Fork of https://chromium.googlesource.com/breakpad/breakpad to be usable in https://github.com/Microsoft/AppCenter-SDK-Android test app without the fetch tools.
+appcenter-sdk-apple,Objective-C,"Development repository for the App Center SDK for iOS, macOS and tvOS."
+appcenter-sdk-cordova,Objective-C,App Center Preview SDK for Cordova
+appcenter-sdk-dotnet,C#,"Development repository for the App Center SDK for .NET platforms, including Xamarin"
+appcenter-sdk-react-native,JavaScript,Development repository for the App Center SDK for React Native
+appcenter-sdk-unity,C#,"Development repository for the App Center SDK for Unity platforms, including Android, iOS, and UWP"
+AppCenter-SDK-Unity-Extension,C#,Unity editor extension for the App Center SDK.
+AppCenter-Test-Appium-Java-Extensions,Java,Extension library to run Appium Java tests on Visual Studio App Center
+AppCenter-Test-Espresso-Extensions,Java,Extension library to run Espresso tests on Visual Studio App Center
+AppCenter-Test-XCUITest-Extensions,Shell,Extension library to run XCUITest on Visual Studio App Center
+appcenter-Xamarin.Forms-Gallery-Demo,C#,"Demonstration based on this sample, to show how different UI elements can be tested with App Center: https://github.com/xamarin/xamarin-forms-samples/tree/master/FormsGallery"
+appcenter-Xamarin.UITest-Demo,C#,Minimal App for demonstrating Xamarin.UITest functionality within App Center
+AppConsult-MSIXDevWorkshop,,Hands on labs for Developers on MSIX for Windows Apps
+AppConsult-Samples-MixedReality,C#,Samples code for building apps on the Windows Mixed Reality platform
+AppConsult-WinAppsModernizationWorkshop,C#,Windows Apps modernization workshop
+appinsights-telemetry-flow,PowerShell,"Self-service diagnostic scripts for Azure Application Insights. Validate connectivity, TLS, AMPLS/Private Link, ingestion, sampling, workspace health — or diagnose Application Insights Agent installation issues — directly from the machine or network where your app runs. Available for PowerShell (Windows) and Bash (Linux)."
+AppInsights.EnterpriseTelemetry,C#,Library for capturing telemetry in an Enterprise level application
+AppInsights.EnterpriseTelemetry.AspNetCore.Extension,C#,Library for capturing enterprise level telemetry in an Web application built on ASP.NET Core 2 and above
+appium,JavaScript,:iphone: Automation for iOS and Android Apps.
+appium-windows-driver,JavaScript,
+apple-ux-guide,Swift,Tips and best practices for building great experiences and writing sustainable code using Apple's UX Frameworks
+Application-Insights-Istio-Adapter,C#,Application Insights adapter for Istio's Mixer which enables Application Insights telemetry collection for applications within Istio-enabled Kubernetes clusters.
+Application-Insights-K8s-Codeless-Attach,TypeScript,Solution for onboarding Kubernetes/AKS workloads onto Application Insights monitoring.
+Application-Insights-Workbooks,JSON,Templates for Azure Monitor Workbooks
+ApplicationInsights-Android,Java,Microsoft Application Insights SDK for Android
+applicationinsights-angularplugin-js,JavaScript,
+ApplicationInsights-Announcements,,Subscribe to this repo to be notified about major changes in Application Insights.
+ApplicationInsights-aspnetcore,C#,ASP.NET Core web applications monitoring
+applicationinsights-channel-js,JavaScript,This extension prepares and sends telemetry to the Application Insights ingestion endpoint.
+applicationinsights-core-js,JavaScript,Core SDK layer for next version of application insights javascript SDK.
+ApplicationInsights-CPP,C++,Application Insights SDK for UAP C++ Apps
+ApplicationInsights-Docker,Java,Application Insights for Dockerized Apps
+ApplicationInsights-Docker-Dockerfile,Dockerfile,Continues integration for Application Insights for Docker image
+ApplicationInsights-dotnet,C#,ApplicationInsights-dotnet
+ApplicationInsights-dotnet-logging,C#,.NET Logging adaptors
+ApplicationInsights-dotnet-server,C#,Microsoft Application Insights for .NET Web Applications
+ApplicationInsights-Go,Go,Microsoft Application Insights SDK for Go
+ApplicationInsights-iOS,Objective-C,Microsoft Application Insights SDK for iOS
+ApplicationInsights-Java,Java,Application Insights for Java
+ApplicationInsights-Java-Repros,Java,ApplicationInsights-Java-Repros repo is created for Application Insights Java customers who can upload their sample apps for us to reproduce issues.
+ApplicationInsights-JS,TypeScript,Microsoft Application Insights SDK for JavaScript
+ApplicationInsights-JS-Mezzurite,HTML,Application insights extension of Mezzurite
+ApplicationInsights-Kubernetes,C#,Enrich the telemetry data for .NET applications running inside containers that are managed by Kubernetes.
+ApplicationInsights-LocalForwarder,C#,Local Forwarder is an agent that collects Application Insights or OpenCensus telemetry from a variety of SDKs and routes it to the Application Insights backend.
+ApplicationInsights-node.js,TypeScript,Microsoft Application Insights SDK for Node.js
+ApplicationInsights-node.js-native-metrics,C++,Native Metrics Agent for the Application Insights Node.js SDK
+ApplicationInsights-OSX,Objective-C,Microsoft Application Insights SDK for OS X
+ApplicationInsights-PHP,PHP,Azure Application Insights SDK for PHP
+ApplicationInsights-Profiler-AspNetCore,,Application Insights Profiler sample and documentation
+ApplicationInsights-Python,Python,Azure Monitor Distro for OpenTelemetry Python
+applicationinsights-react-js,JavaScript,Microsoft Application Insights React plugin
+applicationinsights-react-native,JavaScript,Microsoft Application Insights React Native Plugin
+ApplicationInsights-Ruby,Ruby,Microsoft Application Insights SDK for Ruby
+ApplicationInsights-SAP-Fiori-Plugin,JavaScript,SAP Fiori Launchpad Plugin to gain insights into Fiori metrics with Azure Application Insights
+ApplicationInsights-SDK-Labs,C#,Application Insights experimental projects repository
+ApplicationInsights-ServiceFabric,C#,ApplicationInsights SDK for ServiceFabric projects
+ApplicationInsights-SnapshotCollector,,NuGet package for Application Insights Snapshot Debugger for .NET applications
+ApplicationInsights-statsd,TypeScript,StatsD backend for Application Insights Node.js
+applicationinsights-vscode,,Visual Studio Code extension for Azure Application Insights
+ApplicationInsights-WordPress,PHP,Main development repository for Application Insights WordPress plugin.
+ApplicationInsights-Xamarin,C#,Microsoft Application Insights SDK for Xamarin
+ApplicationInspector,C#,A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
+ApplicationInspector-Action,Shell,The GitHub Action for Microsoft Application Inspector
+appliedai-rag101,Jupyter Notebook,This is a repo with code and documentation to help customers get started in their journey with RAG leveraging Azure Data products.
+AppliedRoboticsResearchLibrary,,"From the Microsoft Applied Robotics Research team, this library is a collection of GitHub repositories containing software applications, data sets, and hardware reference designs to support research and education in the fields of service-robotics. Our team invites you to join us in research and engineering efforts that advance how robots can assist and augment the capabilities of human beings."
+AppModelSamples,,Sample code for AppModel features
+apps-agents-workshop,,Public repository for the Power Platform Apps and Agents Workshop materials
+Appsample-Photosharing,C#,Sample code for a UWP photo sharing app.
+AppSource,,"Build a Test Drive solution to allow customers to try before they buy your product. This repository contains a development helper tool to help build, test, and debug your test drive."
+APRON,C,Authenticated and Progressive System Image Renovation
+APSI,C++,APSI is a C++ library for Asymmetric (unlabeled or labeled) Private Set Intersection.
+APSINet,C#,.Net wrappers for APSI
+APS_Query_Toolbox,,Collection of helpful queries for the Microsoft Analytics Platform System appliance to manage appliance and workload health and optimize performance.
+aqa-tests,HTML,A fork of adoptium/aqa-tests with Msft specific changes
+aqafer,,A repo to make it easy to run AQAvit verification against different OpenJDK binaries (validation for Eclipse-Adoptium Marketplace for the OpenJDK).
+AR2,Python,
+aragog,C++,Scalable runtime verification of distributed middleboxes with Aaragog (OSDI 2020)
+arc-sql-mi-db-operator,Go,Control Arc SQL MI databases using kubectl
+arc-switch,Go,ARC enabled switches
+arcade-background-scroll,TypeScript,A MakeCode Arcade extension for scrolling and looping background images. Adds the Scroller category
+arcade-block-objects,TypeScript,An extension for MakeCode Arcade that adds JavaScript like objects
+arcade-carnival,JavaScript,"This extensions adds blocks to help you create your own carnival games in MakeCode Arcade using throwable balls, extra timer functions, and extra game-over options."
+arcade-chaos-maze,TypeScript,A Chaos Maze for students to explore in MakeCode Arcade
+arcade-character-animations,TypeScript,A MakeCode Arcade package for animating sprites using rules
+arcade-dom,TypeScript,DOM layout for MakeCode Arcade - beta
+arcade-forest-fire,TypeScript,An extension for MakeCode Arcade that simulates the spread of forest fires
+arcade-grid,TypeScript,
+arcade-machine,TypeScript,":video_game: Input abstraction layer for gamepads, keyboards, and UWP apps in Angular. For React, check out https://github.com/mixer/arcade-machine-react"
+arcade-machine-react,TypeScript,":video_game: Input abstraction layer for gamepads, keyboards, and UWP apps in React."
+arcade-minimap,TypeScript,
+arcade-platformer,TypeScript,An extension for making platformer games in Microsoft MakeCode Arcade
+arcade-sprite-data,TypeScript,Blocks attach data to MakeCode Arcade sprites
+arcade-storytelling,TypeScript,A storytelling extension for MakeCode Arcade
+arcade-swarm-animation,TypeScript,Swarm animation for MakeCode Arcade
+arcade-text,TypeScript,
+arcade-tile-util,TypeScript,A MakeCode Arcade extension with useful blocks for working with tilemaps
+arcade-timers,TypeScript,
+arcade-tutorial-extensions,JavaScript,A collection of extensions used in MakeCode Arcade tutorials and skillmaps
+arcana.cpp,C++,"Arcana.cpp is a collection of helpers and utility code for low overhead, cross platform C++ implementation of task-based asynchrony."
+archai,Python,"Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research."
+archived-confidential-sidecar-containers,Go,This is a collection of sidecar containers that can be incorporated within confidential container groups on Azure Container Instances.
+ArchProbe,C++,A profiler to disclose and quantify hardware features on GPUs.
+ArchScale,Python,Simple & Scalable Pretraining for Neural Architecture Research
+arcticseals,Jupyter Notebook,A deep learning project in cooperation with the NOAA Marine Mammal Lab to detect & classify arctic seals in aerial imagery to understand how they’re adapting to a changing world.
+ardiffact,TypeScript,
+ArduinoHidForWindows,C++,A public Arduino library with implementations for various Windows-compatible Human-Interface-Devices
+argos,Python,An agentic system for autonomously generating explainable and reproducible time-series anomaly detection rules using LLMs.
+ARGUS,Python,
+ARI,PowerShell,Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort
+ark,C++,A GPU-driven system framework for scalable AI applications
+arm-debug-deployment-cleanup,PowerShell,Script to clean up ARM deployment logs
+Armada,C#,"Armada is a tool for writing, and proving correct, high-performance concurrent programs."
+aro-migration-hackathon,Shell,Hackathon content prepared for a joint Red Hat and GitHub + Azure Hackathon. 
+aroundtheclock,,"Join us for a 24-hour, engineering event focused on Azure SQL and Azure Data Factory - with the idea that Azure Data Factory can do a lot of things, but it does Azure SQL really well!"
+aroworkshop,SCSS,Azure Red Hat OpenShift workshop
+arr-grasp-type-recognition,Python,
+art,TypeScript,"Exploring the connections between artworks with deep ""Visual Analogies"""
+art-msra,Jupyter Notebook,[CVPR 2025] Official repo for ART:Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation
+artifacts-credprovider,C#,"The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds."
+artifacts-credprovider-conda,,Provide conda protocol authentication support for Azure Artifacts
+artifacts-keyring,Python,Keyring backend for Azure Artifacts
+artifacts-keyring-nofuss,Python,"Minimal, pure-Python keyring backend for Azure DevOps Artifacts feeds.  Replaces the official artifacts-keyring (which wraps a ~100 MB .NET binary) with a no-fuss implementation that covers the most common Linux auth scenarios using raw HTTP — no msal, no azure-identity, no .NET."
+ARXGEN,Python,Scripts to parse arxiv documents for NLP tasks
+ArxivFormula,Python,This repo is used to release the ArxivFormula dataset.
+asclepius,Jupyter Notebook,Asclepius is a hero and god of medicine in ancient Greek religion and mythology.
+asconnect,Python,Wrapper around the Apple App Store Connect REST APIs
+ASDET,Jupyter Notebook,
+AsgardBench,Python,Visually grounded planning benchmark for multimodal agents
+AskEase,Python,NVDA Learning Assistant
+ASL-citizen-code,Python,Code and baselines for ASL Citizen dataset
+ASL-STEM-Wiki,Python,Code for the ASL STEM Wiki baselines
+aspire,C#,"Aspire is the tool for code-first, extensible, observable dev and deploy."
+aspire-brand,,"Brand assets for Aspire: Including slides, logos, icons, colors, guides, etc."
+aspire-devcontainer,,
+aspire-devcontainer-feature,Shell,
+aspire-devcontainer-nightly,Dockerfile,GitHub template repository pre-configured with Devcontainer for .NET Aspire development.
+aspire-samples,C#,
+aspire.dev,MDX,The official website for all things aspire.dev.
+aspnet-docker,Dockerfile,This repository has moved to microsoft/dotnet-framework-docker.
+AspNetCoreInjection.TypedFactories,C#,"This project provides automatic Automatic Factory functionality similar to Castle.Windsor Typed Factories, for the DI abstractions in ASP.NET Core (IServiceCollection)"
+ASRDFD,C,
+asrr_tools,,
+assemblyline-service-dotnet,Python,Parses the Common Language Runtime (CLR) header for Windows .NET files using Unit42's dotnetfile library
+assent-app,C#,"Microsoft Assent is an enterprise scale product, internally used at Microsoft. It delivers a modern approvals experience for any approval, anywhere, anytime, on any device. It consolidates approvals across organization's line of business applications, building on modern technology and powered by Microsoft Azure. It delivers a unified approvals experience for any approval on multiple form factors (i.e., Website, Outlook Actionable email, Teams), anytime. "
+assessment,C#,Assessment tool for checking Zero Trust and Azure AD configuration
+asset-bundle-stats,,List the largest objects in a Unity asset bundle
+assistant-pf-demo,Python,Demo for a Prompt Flow using OpenAI Assistants 
+ASTRA,Python,Self-training with Weak Supervision (NAACL 2021)
+Asynchronous_impulse_response_measurement,MATLAB,Sample code for acoustic impulse response estimation without clock synchronization
+ATA-Auditing,,Audit your Domain Controllers health before and after an Advanced Threat Analytics (ATA) deployment.
+ATAC,Python,"Code accompanying the paper Adversarially Trained Actor Critic for Offline Reinforcement Learning by Ching-An Cheng*, Tengyang Xie*, Nan Jiang, and Alekh Agarwal."
+Atlas,C#,"Automating the deployment, configuration, and maintenance of DevOps engineering systems"
+atlas-design,SCSS,"Atlas Design System serves the Microsoft Learn design & engineering teams. We are a CSS-first design system that aspires to beautiful, accessible, themeable, reading-direction-agnostic components."
+atp-edu,Jupyter Notebook,used to release demo projects from the AI Talent Program course and provide exercise projects for students to complete as homework
+attacksimulationandtraining,PowerShell,"Useful tools, scripts for the Attack Simulation and Training feature from Microsoft"
+AttackSurfaceAnalyzer,C#,Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
+AttentionEngine,Python,
+Attestation-Client-Samples,C++,
+attested-fetch,C++,
+attested-ohttp-client,Rust,This is a rust implementation of Oblivious HTTP client sends OHTTP messages to an attested OHTTP gateway
+attested-ohttp-server,Rust,This is a rust implementation of an attested OHTTP gateway
+attribute-structuring,Python,
+audio,PowerShell,Audio tools and libraries created by the Windows audio team
+Audio-Manager-for-Unity,C#,A tool for defining and executing audio behaviors in Unity in a node based editor
+audio-recorder,C#,Audio Recorder is an example application demonstrating how to record and play audio in Windows Phone 8 devices. XNA Audio API and Windows Audio Session API (WASAPI) are covered by the example.
+AudioEntailment,,Audio Entailment: Deductive Reasoning for Audio Understanding
+AuditBuddy,C#,A set of PowerShell cmdlets used to manage Audit settings on Windows
+augmented-interpretable-models,Jupyter Notebook,Interpretable and efficient predictors using pre-trained language models. Scikit-learn compatible.
+aui-cli,Python,Command line client for Audience Insights
+auoms-kits,Shell,OMS-Auditd-Plugin Binary Release Kits
+Aura,Python,
+aurora,Python,Implementation of the Aurora model for Earth system forecasting
+aurorabp-sample-data,Jupyter Notebook,Sample data associated with the Aurora-BP study
+AustraliaBuildingFootprints,,
+auteur,Rust,"Live GStreamer node compositor service, implemented in rust"
+authentication-events-function,C#,
+authentication-events-sdk-function,C#,Azure function sample code for Microsoft Entra Custom authentication extension
+AuthJanitor,C#,"Manage the lifecycle of application tokens, keys, and secrets in Azure"
+Auto-Formula,,
+auto-github-docs-generator,Jupyter Notebook,Automatically generate github documentation with readthedocs using your openai endpoint
+auto-resume-builder,Python,
+Auto-retinoscopy,Python,This is the official implementation for the Retinoscopy project.
+auto-sys-ml-template,Python,A template repo used by Autonomous Systems and Robotics Group for ML projects 
+Auto-Validate-by-History,Jupyter Notebook,
+AutoAdapt,Python,
+AutoBaseliningIntTestGitHub,PowerShell,Repo to perform integration tests for autobaselining
+AutoBrewML,Jupyter Notebook,With AutoBrewML Framework the time it takes to get production-ready ML models with great ease and efficiency highly accelerates. 
+autocomplete-search-box,TypeScript,A wrapper over fluentUI SearchBox with search suggestions
+AutoCrane,C#,
+autodistil,Python,
+autogen,Python,A programming framework for agentic AI
+AutoGenesis,TypeScript,"AutoGenesis is an AI-powered automated testing framework based on Model Context Protocol (MCP), supporting multiple platforms including desktop applications (Windows/macOS) and mobile applications (iOS/Android)."
+automated-brain-explanations,Jupyter Notebook,Generating and validating natural-language explanations for the brain.
+automatic-graph-layout,C#,A set of tools for graph layout and viewing
+automatic-rule-induction,Python,
+Automation-Catalog-for-Power-Platform,TypeScript,
+AutoMoE,Python,AutoMoE: Neural Architecture Search for Efficient Sparsely Activated Transformers
+AutoMS,C++,Automated Optimization of mmWave Coverage using Low-cost Metasurfaces
+AutonomousDrivingCookbook,Jupyter Notebook,"Scenarios, tutorials and demos for Autonomous Driving"
+AutoPodcaster,Python,Sample app for podcast generation using Azure OpenAI
+autorl-research,Python,The collection of the research works about Automatic Reinforcement Learning in Microsoft Research Asia.
+autothrottle,Python,Codebase for Autothrottle (NSDI 2024)
+avatar-example,,
+AVGen-Bench,Python,
+avml,Rust,AVML - Acquire Volatile Memory for Linux
+AwaitAdapters,,
+awesome-js-tools,,An awesome list for JS tools
+ax-2012-doc-tools,HTML,Repository of tools initially released with documentation with Microsoft Dynamics AX 2012 
+AX2012ARMTemplates,,ARM deployment templates for AX 2012 R3 - High Availability Environments. 
+axe-pipelines-samples,TypeScript,Samples that demonstrate running axe accessibility scans from Azure Pipelines
+axe-sarif-converter,TypeScript,An axe-core reporter that outputs axe scan results in SARIF format (http://sarifweb.azurewebsites.net/)
+axe-windows,C#,Automated accessibility testing engine for Windows applications
+az-deep-batch-score,Jupyter Notebook,Batch scoring deep learning models with AML
+az-deep-realtime-score,Jupyter Notebook,AKS Deployment Tutorial
+az-ml-batch-score,Jupyter Notebook,Deploying a Batch Scoring Pipeline for Python Models
+az-ml-realtime-score,Jupyter Notebook,Architecture for deploying real-time scoring of machine learning models using Azure Machine Learning
+az-oai-chatgpt-streamlit-harness,Jupyter Notebook,A fully python based Streamlit development harness for ChatGPT hosted in Azure OpenAI Service.
+az-partner-center-cli,Python,
+az-python,Python,A collection of Python Packages for AI usecases
+az-sas-batch-scoring,Jupyter Notebook,
+AZ302_Eisenzimmer_2-14_SMCSTS,Jupyter Notebook,Materials for AZ302 SMCSTS
+azcapman,PowerShell,"This repository contains Azure quota and capacity management references for SaaS ISVs that operate workloads in subscriptions owned or controlled by the ISV (Enterprise Agreement or Microsoft Customer Agreement), not in customer-owned subscriptions."
+azcode,,Public roadmap for Azure Tools for VS Code.
+AZD-for-beginners,CSS, Welcome to the comprehensive guide for Azure Developer CLI (azd)! This repository is designed to help developers at all levels from students to professional developers learn and master Azure Developer CLI for efficient cloud deployments.
+azdata-extension-azdata,JavaScript,Azure Data Studio API Extension
+azdata-test,TypeScript,This module helps you test Azure Data Studio extensions.
+azdataGraph,JavaScript,Graph diagram component for use in Azure Data Studio and mssql for VS Code tools
+AzDetectSuite,PowerShell,A collection of ARM-based detections for Azure/AzureAD based TTPs
+AzDevOpsDemoGenerator,C#,"Azure DevOps Demo Generator helps teams create projects on their Team Services account with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a chosen template"
+azdo-databricks,TypeScript,"A set of Build and Release tasks for Building, Deploying and Testing Databricks notebooks"
+azdo-extension-team-randomizer,TypeScript,Team Member Randomizer Extension for Azure DevOps
+azfuse,Python,A lightweight blobfuse-like python tool with the data transfer through azcopy
+AziHSM-Guest,PowerShell,Samples and documentation for using AziHSM and binaries to interface with it.
+azl-otel-collector,Go,Azure Linux OTEL Collector Distro
+azopsguide,,Microsoft Azure Operation Management Guide
+azPipeline-KubernetesUI-devopsExtension,TypeScript,This repo contains the code for azure devops extension of kubernetes UI that is being built in repo (https://github.com/Microsoft/azpipelines-kubernetesUI).
+azpipelines-kubernetesUI,TypeScript,This repo contains UI views of a kubernetes cluster and will be used in azure devops pipelines. This UI is hostable outside of azure pipelines product and does not require the UI web server to be running inside the kubernetes cluster.
+azpipelines-kubernetesUI-WebApp,TypeScript,This repo contains an azure web application which hosts the azPipelines kubernetes UI to demonstratre that the UI is hostable outside of azure pipelines product.
+azserialconsole,,Azure Serial Console
+AzStackHCISandbox,PowerShell,"Welcome to the easiest deployment of Azure Stack HCI, full stack of your life! With this ARM Template you will be able to deploy a working, nested Azure Stack HCI cluster with Hyper-V, Storage Spaces Direct and Software Defined Networking, all managed by Windows Admin Center. It's so simple!"
+azure-activedirectory-interactive-auth-library-for-java,HTML,Azure Active Directory interactive authentication library for Java.
+azure-activedirectory-jwt-token-handler-for-dotnet,C#,
+Azure-Advanced-Threat-Protection,PowerShell,Additional Resources to improve Customer Experience with Azure Advanced Threat Protection
+azure-agents-control-plane,Python,
+azure-agents-task-metering,Python,
+Azure-AI-Apps,,Azure AI Apps
+Azure-AI-Contents-Generation,Jupyter Notebook,Sample code for Contents generation by using Azure AI Services
+azure-ai-foundry-whatsapp-bot,Python,"WhatsApp Bot built with Azure Functions, Azure AI Foundry and Azure OpenAI Whisper model, using Python."
+azure-ai-hands-on-training,Jupyter Notebook,Materials & References for the Azure AI Hands-On Training
+azure-ai-search-rest-api-spec,,
+azure-analysis-services-http-sample,C#,A sample http endpoint for connecting to Azure Analysis Services over HTTP.  Clients will send DAX or MDX queries and return results as JSON.
+Azure-Analytics-and-AI-Engagement,Jupyter Notebook,Azure Analytics and AI Engagement
+azure-api-management-monetization,TypeScript,
+azure-app-configuration-se-extension,,An extension for Microsoft Azure Storage Explorer that helps managing Azure App Configuration resources.
+azure-app-service-plugin,Java,Azure App Service Jenkins plugin.
+azure-arc-jumpstart-apps,HTML,Azure Arc Jumpstart repository for hosting the project various sample applications
+azure-architecture-solution-build-for-csa,,A technical engagement quickstart to be used by Cloud Solution Architects when designing a solution on Azure
+azure-artifacts-migration,PowerShell,Migration scripts to help move your packages to Azure Artifacts from other package repositories. 
+azure-bidding-and-auction-services-demo,Shell,
+azure-blob-checksum-verification,Shell,
+azure-blockchain-connector,Go,"Secures Ethereum-like applications (Parity, Quorum, etc) JRPC endpoint with HTTPS and authentications."
+azure-boards-automate-state-transitions,C#,Automate state transitions of parent work items based on child work item changes
+azure-boards-estimate,TypeScript,
+azure-boards-estimate-backend,C#,
+azure-boards-split,TypeScript,Split a work item to track work that will continue into the next sprint.
+azure-boards-vscode,TypeScript,Azure Boards Extension for Visual Studio Code
+azure-carbon-estimator,TypeScript,Azure carbon Estimator is an SDK that integrates with Green Software Foundation's Impact Framework for getting emissions for all your Azure workloads
+azure-chat-for-java,Java,"Azure Chat for Java, A simple Java-based photo and video sharing application, supporting Azure services as the backend for authentication, Video, photos and friend requests via the Azure Java SDK"
+azure-cli,Python,Azure Command-Line Interface
+azure-cli-extensions,Python,Public Repository for Extensions of Azure CLI.
+Azure-CloudAdoptionFramework-UnderstandingNetworking,PowerShell,
+azure-cloudera-vm-metrics-logging,Shell,Azure Cloudera linux vm metrics logging with fluentd to azure storage
+azure-container-apps,Bicep,Roadmap and issues for Azure Container Apps
+azure-cookbook,Ruby,Windows Azure Cookbook for Chef
+azure-cosmos-db-sampler,Java,An Apache JMeter sampler for load-testing Cosmos DB SQL API accounts
+azure-cost-monitor,Python,
+azure-data-manager-for-energy-experience-lab,TypeScript,"Experience Lab is a set of utilities that assist in creating instances of Microsoft Azure Data Manager for Energy, performing data loads, and performing basic management operations."
+azure-data-manager-for-energy-power-bi-connector,,Microsoft Azure Data Manager for Energy Certified Power BI Connector
+azure-data-services-go-fast-capability-assessment,,Document repository that aims to provide a methodology for assessing an organisation's data and analytics platform maturity.
+azure-data-services-go-fast-documentation,,Documentation for the Azure Data Services Go Fast Framework. A framework for rapid deployment and configuration of common Azure Data Services Architectures.
+azure-databases-aspire,C#,
+Azure-Databases-Community-Content,,Microsoft Databases content shared with the Community. 
+Azure-Databricks-NYC-Taxi-Workshop,Scala,An Azure Databricks workshop leveraging the New York Taxi and Limousine Commission Trip Records dataset
+Azure-Databricks-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor,Python,
+azure-databricks-sql-workshop-ja,Python,A repository for managing workshop contents for learning Microsoft Azure's data analytics platform with a focus on Databricks SQL and Synapse Pipeline & Data Flow. The contents are written in Japanese.
+Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs,Jupyter Notebook,
+Azure-DCAP-Client,C++,Interfaces between SGX SDKs and the Azure Attestation SGX Certification Cache.
+Azure-DDP,PowerShell,"Framework to build general purpose distributed data platform in Azure Virtual Machines to support various platforms like Hadoop, Cassandra and MongoDB.  "
+azure-dev-day,C#,Labs and information for Azure Dev Day.
+azure-dev-day-java,HTML,Labs and information for Azure Dev Day.
+azure-dev-experience--azure-devbox,Python,Azure Developer experience - using Azure DevBox as a primary environment for Azure development.
+Azure-Dev-Experience-developer-environment-options,Python,Summary of developer (development) environment options for developing Azure based solutions.
+azure-devops-analytics,TSQL,
+azure-devops-auth-samples,JavaScript,Samples showing how to auth with Azure DevOps
+azure-devops-dotnet-samples,C#,.NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server
+azure-devops-engineering-extensions,TypeScript,AzureDevOps marketplace extension that contains various engineering oriented Pipeline tasks
+azure-devops-extension-add-fields-with-refname,JavaScript,Azure DevOps Extension that can be used to create new fields in a process and allows you to specify the refname
+azure-devops-extension-api,TypeScript,REST client libraries and contracts for Azure DevOps web extension developers.
+azure-devops-extension-cascading-picklist,TypeScript,Azure DevOps extension to enable cascading picklists on the work item form
+azure-devops-extension-hot-reload-and-debug,TypeScript,Azure DevOps extension sample that uses hot reloading and is debuggable directly in VS Code
+azure-devops-extension-sample,TypeScript,Sample web extension for Azure DevOps
+azure-devops-extension-sdk,TypeScript,Client SDK for developing Azure DevOps extensions
+azure-devops-extension-tasks,TypeScript,Pipeline tasks for Azure DevOps Extensions
+azure-devops-extension-yeoman-generator,TypeScript,Generates a basic Azure DevOps extension with support for hot reload and debugging in VS Code
+azure-devops-go-api,Go,This repository contains Go APIs for interacting with and managing Azure DevOps.
+azure-devops-intellij,Java,IntelliJ IDEA plug-in for Visual Studio Team Services and Team Foundation Server (TFS)
+azure-devops-mcp,TypeScript,"The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents."
+azure-devops-mcp-pr-filter,,"The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents."
+azure-devops-node-api,TypeScript,Azure DevOps Client for Node.js
+azure-devops-python-api,Python,Azure DevOps Python API
+azure-devops-python-samples,Python,Python samples for interacting with and managing Azure DevOps
+azure-devops-rust-api,Rust,Rust API crate for the Azure DevOps API
+azure-devops-skills,,Sample skills and prompt patterns demonstrating how to use the Azure DevOps MCP Server with GitHub Copilot and agent-based workflows
+azure-devops-symbols,TypeScript,Collection of tools for javascript projects to support sourcemap storage using azure devops' symbol service
+azure-devops-tls12,PowerShell,Azure DevOps TLS 1.2 transition readiness checker
+azure-devops-ui-public,,
+azure-devops-wit-client-om-migration-guide,C#,.NET/C# samples for interacting with work items on Azure DevOps Services and Azure DevOps Server
+Azure-DevOps-YAML-for-Unity,,A sample yaml configuration for creating a headless pipeline to build Unity3D projects for HoloLens2 with Azure Pipelines and Microsoft Hosted Agents.
+azure-digital-twins-code-samples,,Azure Digital Twins Code Samples
+azure-digital-twins-java,Java,Azure Digital Twins - Java Support Collection
+azure-digital-twins-postman-samples,,Azure Digital Twins Postman Samples
+Azure-Edge-Solutions-Lab,Python,"Edge AI end to end solution using AzSHCI, AKS, and ARC"
+Azure-Employee-Network-Graph-Solution-Accelerator-with-MGDC,Jupyter Notebook,
+azure-gaming-devops,,DevOps Pipelines for Azure Gaming Services
+azure-genai-design-patterns,Python,
+azure-gradle-plugins,Java,Azure Plugins for Gradle
+azure-grpc-telemetry-pipeline,HCL,A sample pipeline to ingest and process gRPC telemetry data
+azure-health-AI-services-samples,,"This repository contains different samples applications and sample code to help you get started with the different Health-AI services. Based on these you will learn how to use our products, and accelerate your implementations."
+azure-health-data-services-toolkit,C#,Customization model for Azure Health Data Services.
+azure-health-data-services-workshop,Bicep,Repository for instructor led and self-paced Azure Health Data Services workshops
+azure-iac-agentic-toolkit,Shell,This project combines open-source tools with GitHub Copilot agentic configurations to help you to engineer Azure-based infrastructure with Terraform.
+Azure-ILB-hairpin,,Back-end to front-end communication with Azure Internal Load Balancer
+Azure-Integration-Reports,,This repo will be used to generate and store reports for other GitHub repos
+Azure-Invoice-Process-Automation-Solution-Accelerator,,
+azure-iot-central-esp32-sample,C++,"An end-to-end example code to connect an ESP32 board with Azure IoT Central and send temperature, humidity, and light data from sensors."
+azure-iot-developer-kit,,A curated list of awesome Azure IoT Developer Kit projects and resources.
+azure-iot-edge-cv-model-samples,Python,An end-to-end IoT Edge solution performing object detection (YOLOv3)
+azure-iot-edge-jenkins-plugin,Java,A Jenkins plugin for continuous integration(build and push docker image) and continuous deployment(create Edge deployment on Azure)
+azure-iot-edge-vsts-extension,JavaScript,A tool for continuous integration(build and push docker image) and continuous deployment(create Edge deployment on Azure)
+azure-iothub-exporter,Go,Prometheus exporter for Azure IoT Hub
+Azure-Key-Vault-Plugin-gMSA,Smarty,
+Azure-Kinect-Samples,C,Samples for Azure Kinect
+Azure-Kinect-Sensor-SDK,C++,A cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device.
+azure-kms,,Key management system based on a confidential ledger
+Azure-Lab-Services-Retirement-Scripts,PowerShell,"This repository provides a set of automation scripts to help Azure Lab Services customers efficiently prepare for and complete their service retirement workflows. The scripts are designed to streamline bulk cleanup, resource validation, and deprovisioning tasks, reducing manual effort and simplifying the overall offboarding process."
+azure-linux-automation,PowerShell,
+azure-linux-dev-tools,Go,
+azure-linux-image-tools,Go,
+azure-linux-kernel,,Patches for building an Azure-tuned Linux kernel.
+azure-load-testing,,
+Azure-Managed-Instance-Link,PowerShell,"Githib repository for Azure SQL Managed Instance link. This repository contains instructions, links to documentation and other useful resources, as well as scripts for setup and use of Managed Instance link."
+azure-maven-archetypes,Scala,Maven Archetypes for Microsoft Azure Services
+azure-maven-plugins,Java,Maven plugins for Azure
+azure-media-redactor-visualizer,C#,"After submitting an Analyze pass in the cloud, download the output and use this tool to visualize and preview the output, and help select IDs to select for Redact phase in the cloud."
